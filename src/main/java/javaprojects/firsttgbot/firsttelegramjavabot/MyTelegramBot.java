@@ -14,7 +14,7 @@ public class MyTelegramBot implements SpringLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "";
+        return "token";
     }
 
     @Override
